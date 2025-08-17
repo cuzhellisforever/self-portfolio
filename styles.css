@@ -21,6 +21,9 @@ p {
 ul {
     color: rgb(198, 4, 4);
 }
+h3 {
+    color: rgb(198, 4, 4);
+}
 .middle {
     position: relative; /* Ensure .middle is a positioned container */
     margin-left: auto;
