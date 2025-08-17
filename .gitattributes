@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+* LF=auto
+# Custom attributes for specific file types
+*.md text
+*.txt text
+*.json text
+*.xml text
+*.html text
+*.css text
