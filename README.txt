@@ -1,1 +1,1 @@
-my life is hell lol whyyys
+self portfolio, kinda my resume sooooo
